@@ -12,3 +12,10 @@ pip install scikit-learn matplotlib seaborn pandas numpy
 
 # para el SO fedora , poder exportar pdfs
 sudo dnf install texlive-xetex texlive-collection-fontsrecommended texlive-collection-basic
+
+pip install openai
+pip install transformers
+pip install transformers
+
+
+chatgpt KEY : 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
