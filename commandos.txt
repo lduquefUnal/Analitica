@@ -16,6 +16,7 @@ sudo dnf install texlive-xetex texlive-collection-fontsrecommended texlive-colle
 pip install openai
 pip install transformers
 pip install transformers
+pip install torch
+pip install pysentimiento
 
-
-chatgpt KEY : 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
+AI ML API : 31552d8a536a4dc7b37a84012b153eca
