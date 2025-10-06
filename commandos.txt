@@ -19,4 +19,3 @@ pip install transformers
 pip install torch
 pip install pysentimiento
 
-AI ML API : 31552d8a536a4dc7b37a84012b153eca
